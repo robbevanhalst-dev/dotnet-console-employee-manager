@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using EmployeeManager.Application.Interfaces;
+using EmployeeManager.Application.Services;
+using EmployeeManager.Console.Menu;
+
+IEmployeeService employeeService = new EmployeeService();
+MenuService menuService = new MenuService(employeeService);
+
+menuService.Run();
