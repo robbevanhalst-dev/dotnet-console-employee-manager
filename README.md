@@ -98,4 +98,5 @@ Vanhalst Robbe
 
 Junior .NET Developer  
 GitHub: https://github.com/robbevanhalst-dev
+LinkedIn: linkedin.com/in/robbe-vanhalst
 
