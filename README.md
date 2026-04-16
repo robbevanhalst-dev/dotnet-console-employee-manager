@@ -18,9 +18,9 @@ The application allows users to manage employees via a console interface.
 This solution follows a layered structure:
 
 EmployeeManager.sln  
-├── EmployeeManager.Console (Presentation layer)  
-├── EmployeeManager.Application (Business logic layer)  
-└── EmployeeManager.Domain (Domain models)
+- EmployeeManager.Console (Presentation layer)
+- EmployeeManager.Application (Business logic layer)
+- EmployeeManager.Domain (Domain models)
 
 ### Layer Responsibilities
 
