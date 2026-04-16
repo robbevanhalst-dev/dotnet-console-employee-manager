@@ -95,8 +95,10 @@ This separation ensures scalability and maintainability.
 ## Author
 
 Vanhalst Robbe
+Junior .NET Developer
 
-Junior .NET Developer  
-GitHub: https://github.com/robbevanhalst-dev
-LinkedIn: linkedin.com/in/robbe-vanhalst
+
+## Connect
+[![GitHub](https://img.shields.io/badge/GitHub-robbevanhalst--dev-181717?logo=github&logoColor=white)](https://github.com/robbevanhalst-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robbevanhalst/)
 
